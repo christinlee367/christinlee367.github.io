@@ -1,4 +1,4 @@
-## Christina's Jekyll
+## Christina's Jekyll [github repo](https://github.com/christinlee367/christinlee367.github.io)
 # [REVIEW TICKET TTO T3](https://github.com/christinlee367/christinlee367.github.io/issues/1)
 You can use the [editor on GitHub](https://github.com/christinlee367/christinlee367.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
