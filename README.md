@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/christinlee367/christinlee
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/christinlee367/christinlee367.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
 ### Data Structures project
 #### [Replit Runtime](https://replit.com/@ChristinaLee6/NovelShimmeringCompilers#main.py)
 #### [Github Code](https://github.com/christinlee367/christinlee367.github.io/blob/main/main.py)[Github Code](https://github.com/christinlee367/christinlee367.github.io/blob/main/test.py) 
@@ -111,10 +113,21 @@ if __name__ == "__main__":
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/christinlee367/christinlee367.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+### Create Task
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+```
+if (x.innerHTML === engTitle[0]) { x.innerHTML = chinTitle[0]; } else { x.innerHTML = engTitle[0]; }
+
+```
+```
+if (x.innerHTML === engTitle[0]) {
+            x.innerHTML = chinTitle[0];
+        } else {
+            x.innerHTML = engTitle[0];
+        }
+```
+```
+const chinTitle = ["名称", "歌曲", "您好，欢迎来到识别声音。 知道危险何时到来可能意味着生与死的区别。对于我们的英语观众，请点击上方/For English Please click above", "风暴 - 立即在封闭的建筑物或硬顶车辆中寻求庇护", "龙卷风 - 当你听到这个，去一个低而坚固的地方", "火山 - 避免火山灰，通风是关键", "地震 - 躲避书架等容易掉落的物体"]
+```
