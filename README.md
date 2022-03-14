@@ -1,10 +1,42 @@
-## Informational
+## Christina's Jekyll
 
 You can use the [editor on GitHub](https://github.com/christinlee367/christinlee367.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/christinlee367/christinlee367.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 5.1, 5.2 notes and actions
+#### Tri 3 TPT 0.1 related to Beneficial and Harmful Effects of Computing Big Idea 5.1
+GitHub pages action
+***
+1. Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
+    3 Beneficial on Computing: Increase your productivity, Connects you to the Internet, Can store vast amounts of information and reduce waste
+    3 Harmful Effects of Computing: Relationships and Social Skills Issues, Health Problems, Browsing Online Can Be Dangerous. 
+![2](https://github.com/christinlee367/christinlee367.github.io/blob/main/wikiDopanmine.png)
+2. Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?
+    It is still astounding that we must still require a human response to answer our most important calls. it would be better to combine this trust with machine learning. Based on the flow chart, it is also a complicated process that is not fault-tolerant at all, but it is extremely realistic. Sometimes when making important calls such as job offers, can impact my personal study and success in High School negatively.
+
+#### 5.2 GitHub pages action -- Digital Empowerment
+***
+1. How does someone empower themself in a digital world?
+    Empowerment in the digital world is important because it assists organizations in opening up the knowledge, experience and values that people already have. Through resources such as slack and github, students like me can express their unique talent through these tools. Then being is linked is what is important and makes our work known.
+
+2. How does someone that is empowered help someone that is not empowered? Describe something you could do at Del Norte HS.
+   Build trust. At times, it is necessary that we trust others to complete specific tasks or own certain goals without much oversight, Ask for feedback, Offer instructions. For places such as the nighthawk center, it allows students to have a safe space where they can relax. Equip with many helpful mentors and other students, they are able to gain help to be empowered in a digital world over there.
+
+3. Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?
+Red tape is particularly burdensome to smaller businesses and may act as a disincentive to new business start-ups. Paper is definitely now blocking digital empowerment because it allows people to print and put their work on paper making it easier for others to see visually and be more accessible to those who do not have a computer device.
+
+#### Menu Challenge
+1. Build your own menu and sub-menu
+[main.py](https://github.com/christinlee367/christinlee367.github.io/blob/main/main.py)
+2. Add swap and keypad from Tri 2 Week 10, to your project and menu.
+3. For additional challenge and review, build a Christmas tree with *s or a pattern of your choice
+image
+4. Add two items below to get ready for animations and interacting with terminal codes
+[animation and swap.py](https://github.com/christinlee367/christinlee367.github.io/blob/main/test.py)
+5. Here's an example of a ship pattern. Implement it in your project and make your own pattern following the example.
+I used a bunny example on a canoe
 
 ### Data Structures project
 #### [Replit Runtime](https://replit.com/@ChristinaLee6/NovelShimmeringCompilers#main.py)
