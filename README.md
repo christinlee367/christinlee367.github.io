@@ -115,7 +115,8 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Create Task
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### [Replit Runtime](https://youtu.be/wFyg_sEB8i8)
+#### [Github Code](https://github.com/christinlee367/n225_FireEradicatorsTheSequel/blob/main/templates/pbl/CTCLPBL/playlist.html)
 
 ```
 if (x.innerHTML === engTitle[0]) { x.innerHTML = chinTitle[0]; } else { x.innerHTML = engTitle[0]; }
