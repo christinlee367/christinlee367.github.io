@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 ### 5.1, 5.2 Notes: Digital Divide and Harmful and Beneficial Effects
 5.1: Beneficial and Harmful Effects
 Accelerometers: automobile industry drove price down
