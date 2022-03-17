@@ -77,9 +77,7 @@ Red tape is particularly burdensome to smaller businesses and may act as a disin
             f.innerHTML = engTitle[6];
         }
      ```
-     ```
-     function myFunction()
-     ```
+     `function myFunction()`
 
 3cii. ```
       <p><button onclick="myFunction()">Translate</button></p>
@@ -87,23 +85,10 @@ Red tape is particularly burdensome to smaller businesses and may act as a disin
 
 3ciii. The identified procedure called myFunction contributes greatly to the overall structure of the javaScript code because it defines the outline for adding other features like arrays and if-else conditions.
 
-3civ. Use a toggle switch to switch between different languages being displayed on and around the table. Then, to make the table, the use of `<td>` to generate a table. There are exactly four rows and two columns that should be displayed. Whenever there is customized text, there is a id="_" definer in the left 
-```
-<td>
-```
-argument. This way, it is able to be defined and used below in the javaScript code. Then when the table is finished, use the arguments 
-```<script>
-``` 
-to show the beginning of javaScript code. Then to make the method, use 
-```function myFunction()
-``
+3civ. Use a toggle switch to switch between different languages being displayed on and around the table. Then, to make the table, the use of `<td>` to generate a table. There are exactly four rows and two columns that should be displayed. Whenever there is customized text, there is a id="_" definer in the left `<td>`argument. This way, it is able to be defined and used below in the javaScript code. Then when the table is finished, use the arguments 
+`<script>` to show the beginning of javaScript code. Then to make the method, use `function myFunction()`
 with curly brackets surrounding it. Then define the two arrays: engTitle and chinTitle and fill them up with Strings that are involved in teh conversion process. Afterwards, you must define the variables that you want to convert using the id's that were defined earlier (Ex: 
-```var x = document.getElementById("title");
-```
-). Then use if-conditional statements to let the computer know when to switch what and when. Here is when you would put the mandarin version that you want to switch to. The innerHTML should =/=== to the array in the format (ex: 
-```chinTitle[0]
-```
-).
+`var x = document.getElementById("title");`). Then use if-conditional statements to let the computer know when to switch what and when. Here is when you would put the mandarin version that you want to switch to. The innerHTML should =/=== to the array in the format (ex:`chinTitle[0]`).
 
 3di. First Call: The first call is for the toggle switch. There are two results that result from that call. The english language and the chinese language. Call it once it is chinese and call it twice, it is english.
     Second Call: The second call is to the function itself, it has a method where it calls the function so that the entire code is able to run properly and so that it is able to function efficiently.
