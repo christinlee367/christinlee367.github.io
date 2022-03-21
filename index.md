@@ -6,7 +6,7 @@ You can use the [editor on GitHub](https://github.com/christinlee367/christinlee
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-| # | Name                  | Link  |
+| # | Review Ticket         | Link  |
 |:--|:----------------------|:------|
 | 1 | REVIEW TICKET TTO T3  | [link](https://github.com/christinlee367/christinlee367.github.io/issues/1)
 | 2 | Lists and Loops W2 T3 | [link](https://github.com/christinlee367/christinlee367.github.io/issues/3)
