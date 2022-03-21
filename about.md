@@ -1,5 +1,26 @@
 {% include navigation.html %}
 
+### Tri 3 TPT 1.0 Computing Bias 5.3
+Watch the video... HP computers are racist
+Come up with some thoughts on the video and be ready to discuss them as I call on you. Here are some ideas...
+1. Does the owner of the computer think this was intentional?
+I don't think they thought it was intentional because he did not want it to be this way either. 
+If yes or no, justify you conclusion.
+He had shown his friend as well in light that he doesn't think the acts done by the peopel around his are not done with bad intention.
+How do you think this happened?
+Is this harmful? Was it intended to be harmful or exclude?
+It is definetely harmful to exclude one so we should not follow in pursuit of this misconduct. 
+Should it be corrected?
+This shoudl be corrected in hopes of people in the future to not misunderstand of this intential bias.
+What would you or should you do to produce a better outcome?
+To produce a better outcome, I would work to ensure equality for everyone.
+
+### Tri 3 TPT 1.1 Crowdsourcing 5.4
+CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?
+We can use the power of freidnnship and communication to work together in creating a wonderful project.
+What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
+yes because it has the perspectives of many different people.
+
 ### 5.1, 5.2 Notes: Digital Divide and Harmful and Beneficial Effects
 5.1: Beneficial and Harmful Effects
 Accelerometers: automobile industry drove price down
