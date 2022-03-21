@@ -9,8 +9,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 | # | Name                  | Link  |
 |:--|:----------------------|:------|
-| 1 | REVIEW TICKET TTO T3  | [REVIEW TICKET TTO T3](https://github.com/christinlee367/christinlee367.github.io/issues/1)
-| 2 | Lists and Loops W2 T3 | link
+| 1 | REVIEW TICKET TTO T3  | [link](https://github.com/christinlee367/christinlee367.github.io/issues/1)
+| 2 | Lists and Loops W2 T3 | [link](https://github.com/christinlee367/christinlee367.github.io/issues/3)
 
 
 | Challenge | Self-Grade | Link to Code |
