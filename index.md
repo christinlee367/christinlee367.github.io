@@ -7,13 +7,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/christinlee367/christinlee367.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-## Review Tickets
 | # | Name                  | Link  |
 |:--|:----------------------|:------|
 | 1 | REVIEW TICKET TTO T3  | [REVIEW TICKET TTO T3](https://github.com/christinlee367/christinlee367.github.io/issues/1)
 | 2 | Lists and Loops W2 T3 | link
 
-## Challenges
+
 | Challenge | Self-Grade | Link to Code |
 |:----------|:----------------------|:------|
 | Build your own menu and sub-menu | 1/1 | [code](https://github.com/christinlee367/christinlee367.github.io/blob/main/main.py) 
