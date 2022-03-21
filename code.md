@@ -5,11 +5,35 @@
 #### [Replit Runtime](https://replit.com/@ChristinaLee6/NovelShimmeringCompilers#main.py)
 #### [Github Code](https://github.com/christinlee367/christinlee367.github.io/blob/main/main.py)[Github Code](https://github.com/christinlee367/christinlee367.github.io/blob/main/test.py) 
 
-```markdown
-# menuy.py - function style menu
+```
+def for_loop():
+    for n in range(len(InfoDb)):
+        print_data(n)
+      
 
-import test
+# for loop iterates on length of InfoDb- Christina Lee
+#change the while loop to move argument n inside the definition - Christina Lee
+def while_loop():
+    n = 0
+    while n < len(InfoDb):
+        print_data(n)
+        n += 1
+    return
 
+def recursive_loop(): # Pass an argument and sometimes do not pass an argument, so I just remove all the arguments - Christina Lee
+  #Those that already have a function, then I made a new one without it and call if recursively - Christina Lee
+    n = 0
+    recursive_loop1(n)
+    return
+
+def recursive_loop1(n):
+    if n < len(InfoDb):
+        print_data(n)
+        recursive_loop1(n + 1)
+    return # exit condition
+```
+
+```
 main_menu = [
     ["Swap", test.swap],
     ["Listy", test.ship],
@@ -30,80 +54,6 @@ patterns_sub_menu = [
     ["PreFuncy", None],
     ["Funcy", None],
 ]
-
-border = "=" * 25
-banner = f"\n{border}\nPlease Select An Option\n{border}"
-
-
-
-def patterns_submenuc():
-    title = "Class Submenu" + banner
-    m = questy.Menu(title, patterns_sub_menu)
-    m.menu()
-
-
-def menu():
-    title = "Function Menu" + banner
-    menu_list = main_menu.copy()
-    menu_list.append(["Math", submenu])
-    menu_list.append(["Patterns", patterns_submenu])
-    buildMenu(title, menu_list)
-
-def submenu():
-    title = "Function Submenu" + banner
-    buildMenu(title, sub_menu)
-def patterns_submenu():
-    title = "Function Submenu" + banner
-    buildMenu(title, patterns_sub_menu)
-
-def buildMenu(banner, options):
-    # header for menu
-    print(banner)
-    # build a dictionary from options
-    prompts = {0: ["Exit", None]}
-    for op in options:
-        index = len(prompts)
-        prompts[index] = op
-
-    # print menu or dictionary
-    for key, value in prompts.items():
-        print(key, '->', value[0])
-
-    # get user choice
-    choice = input("Type your choice> ")
-
-    # validate choice and run
-    # execute selection
-    # convert to number
-    try:
-        choice = int(choice)
-        if choice == 0:
-            # stop
-            return
-        try:
-            # try as function
-            action = prompts.get(choice)[1]
-            action()
-        except TypeError:
-            try:  # try as playground style
-                exec(open(action).read())
-            except FileNotFoundError:
-                print(f"File not found!: {action}")
-            # end function try
-        # end prompts try
-    except ValueError:
-        # not a number error
-        print(f"Not a number: {choice}")
-    except UnboundLocalError:
-        # traps all other errors
-        print(f"Invalid choice: {choice}")
-    # end validation try
-
-    buildMenu(banner, options)  # recursion, start menu over again
-
-
-if __name__ == "__main__":
-    menu()
 ```
 
 <iframe frameborder="0" width="100%" height="800px" src="https://replit.com/@ChristinaLee6/NovelShimmeringCompilers#main.py"></iframe>
