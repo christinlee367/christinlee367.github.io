@@ -21,6 +21,28 @@ We can use the power of freidnnship and communication to work together in creati
 What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
 yes because it has the perspectives of many different people.
 
+5.3: Computing Bias
+Explicit Data: data that you voluntarily give to companies
+Thumbs
+Name, address…
+Implicit Data: 
+When you watch
+What you binge(d)
+Style of show frequently selected
+Computing innovations can reflect existing tendencies
+Biases can be embedded at all levels of software development
+
+5.4: Crowdsourcing
+Citizen Science
+Describes scientific research that the common population helps to conduct. Ordinary citizens help contribute data to research projects using computing devices. 
+Citizen science gives a wide range of people the ability to contribute to scientific studies and, in turn, provides more diverse data for scientists to work with.
+Crowdsourcing 
+Practice of getting a large amount of input or information from people on the Internet.
+Citizen science is an example of crowdsourcing, but crowdsourcing can also take other forms.
+Crowdsourcing can also take the form of financial support in a process known as crowdfunding like GoFundMe
+
+***
+
 ### 5.1, 5.2 Notes: Digital Divide and Harmful and Beneficial Effects
 5.1: Beneficial and Harmful Effects
 Accelerometers: automobile industry drove price down
