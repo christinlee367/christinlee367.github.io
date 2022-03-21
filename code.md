@@ -1,7 +1,5 @@
 {% include navigation.html %}
 
-<iframe frameborder=“0” width=“100%” height=“500px” src=“https://replit.com/@allisonthuang/AllisonCSPTri3”> </iframe>
-
 ### Data Structures project
 
 #### [Replit Runtime](https://replit.com/@ChristinaLee6/NovelShimmeringCompilers#main.py)
@@ -107,3 +105,5 @@ def buildMenu(banner, options):
 if __name__ == "__main__":
     menu()
 ```
+
+<iframe frameborder="0" width="100%" height="800px" src="https://replit.com/@ChristinaLee6/NovelShimmeringCompilers#main.py"></iframe>
