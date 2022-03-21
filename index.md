@@ -19,6 +19,13 @@ image
 5. Here's an example of a ship pattern. Implement it in your project and make your own pattern following the example.
 I used a bunny example on a canoe
 
+| Challenge | Self-Grade | Link to Code |
+|:----------|:----------------------|:------|
+| Build your own menu and sub-menu | 1/1 | [code](https://github.com/christinlee367/christinlee367.github.io/blob/main/main.py) 
+| swap animation and keypad | 1/2 | [code](https://github.com/christinlee367/christinlee367.github.io/blob/main/test.py) 
+| List | 1/1 | [code](https://github.com/christinlee367/christinlee367.github.io/blob/main/liste.py) 
+| For,While,Recursion | 3/3 | [code](https://github.com/christinlee367/christinlee367.github.io/blob/main/liste.py) 
+| Fibonacci | 1/1 | [code](https://github.com/christinlee367/christinlee367.github.io/blob/main/fib.py) 
 
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
