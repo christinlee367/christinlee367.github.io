@@ -20,6 +20,8 @@ The Creative Commons CC0 Public Domain Dedication waives copyright intereste in 
 6. Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
 - For photo distribution we plan to have a privacy policy stated that explains that the users are giving up the rights to these photos. We also plan to create and establish a secure domain for the website to also prevent attempts of hacking and phishing. 
 
+***
+
 ### Tri 3 TPT 1.0 Computing Bias 5.3
 Watch the video... HP computers are racist
 Come up with some thoughts on the video and be ready to discuss them as I call on you. Here are some ideas...
