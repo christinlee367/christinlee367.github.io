@@ -8,17 +8,17 @@
 The Creative Commons CC0 Public Domain Dedication waives copyright intereste in a work you've created, dedicates it to the world wide web domain. Want it to be accessible to other teams who don't know how.
 
 ### Tri 3 TPT 2.0 Safe Computing 5.6
-Describe PII you have seen on project in CompSci Principles.
-What are your feelings about PII and your exposure?
-Some concerns of including a database or PII in our website is that the personal information of lacrosse team members (such as name, date of birth, email, etc.) can be taken through hacking or phishing. We plan to address this issue by either not requiring users to input this information, or by requiring further authentication  such as security phrases, forgetting the password email feature, facial recognition, etc. to verify the user. 
-Describe good and bad passwords? What is another step that is used to assist in authentication.
-good passwords are ones that do not have personal information that is common knowledge, do not know any known pattern, and does not expose any private information.
-Try to describe Symmetric and Asymmetric encryption.
-Symmetric encryption uses the same key to encrypt and decrypt data making it very easy to use. Asymmetric encryption uses a public key to encrypt data and a private key to decrypt information.
-Provide and example of encryption we used in deployment.
-AWS domain.
-Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
-For photo distribution we plan to have a privacy policy stated that explains that the users are giving up the rights to these photos. We also plan to create and establish a secure domain for the website to also prevent attempts of hacking and phishing. 
+1. Describe PII you have seen on project in CompSci Principles.
+2. What are your feelings about PII and your exposure?
+- Some concerns of including a database or PII in our website is that the personal information of lacrosse team members (such as name, date of birth, email, etc.) can be taken through hacking or phishing. We plan to address this issue by either not requiring users to input this information, or by requiring further authentication  such as security phrases, forgetting the password email feature, facial recognition, etc. to verify the user. 
+3. Describe good and bad passwords? What is another step that is used to assist in authentication.
+- Good passwords are ones that do not have personal information that is common knowledge, do not know any known pattern, and does not expose any private information.
+4. Try to describe Symmetric and Asymmetric encryption.
+- Symmetric encryption uses the same key to encrypt and decrypt data making it very easy to use. Asymmetric encryption uses a public key to encrypt data and a private key to decrypt information.
+5. Provide and example of encryption we used in deployment.
+- AWS domain.
+6. Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
+- For photo distribution we plan to have a privacy policy stated that explains that the users are giving up the rights to these photos. We also plan to create and establish a secure domain for the website to also prevent attempts of hacking and phishing. 
 
 ### Tri 3 TPT 1.0 Computing Bias 5.3
 Watch the video... HP computers are racist
