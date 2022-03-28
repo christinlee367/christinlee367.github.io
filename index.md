@@ -10,6 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 |:--|:----------------------|:------|
 | 1 | REVIEW TICKET TTO T3  | [link](https://github.com/christinlee367/christinlee367.github.io/issues/1)
 | 2 | Lists and Loops W2 T3 | [link](https://github.com/christinlee367/christinlee367.github.io/issues/3)
+| 3 | ClassyFunctions W3 T3 | [link](https://github.com/christinlee367/christinlee367.github.io/issues/4)
 
 
 | Challenge | Self-Grade | Link to Code |
