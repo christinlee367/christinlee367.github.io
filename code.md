@@ -1,7 +1,7 @@
 {% include navigation.html %}
 
 ### Data Structures project
-https://replit.com/@ChristinaLee6/CSP2022T3CFWTCL?lite=true#main.py
+<iframe height="1000px" width="600px" src="https://replit.com/@ChristinaLee6/NovelShimmeringCompilers#main.py?lite=true#main.py"></iframe>
 
 #### [Replit Runtime](https://replit.com/@ChristinaLee6/NovelShimmeringCompilers#main.py)
 #### [Github Code](https://github.com/christinlee367/christinlee367.github.io/blob/main/main.py)[Github Code](https://github.com/christinlee367/christinlee367.github.io/blob/main/test.py) 
