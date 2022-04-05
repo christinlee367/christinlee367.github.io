@@ -1,5 +1,7 @@
 {% include navigation.html %}
 
+## Tech Talk Notes and Video Notes
+
 ### Tri 3 TPT 2.0 Legal and Ethical Concerns 5.5
 1. When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.
 - Creative Commons, Open Source are free terminologies! However, businesses will not last without income. And today, businesses won't last without engineers pulling Open Source software.
