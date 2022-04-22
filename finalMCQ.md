@@ -9,7 +9,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Link to Corrections(CLICK ME)</summary>
+  <summary>Link to Correctionss(CLICK ME)</summary>
   <ol>
     <li><a href="#finals-quiz1-corrections">Finals-Quiz1</a></li>
     <ul>
