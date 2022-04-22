@@ -9,7 +9,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Link to Correctionss(CLICK ME)</summary>
+  <summary>Link to Corrections(CLICK ME)</summary>
   <ol>
     <li><a href="#finals-quiz1-corrections">Finals-Quiz1</a></li>
     <ul>
@@ -50,8 +50,7 @@ Finals Quiz1 Corrections
 <div id="q1"></div>
  Q1
 <img width="946" alt="Screen Shot 2022-04-20 at 8 40 38 AM" src="https://user-images.githubusercontent.com/85912471/164592614-59b0c54b-f360-4722-b146-c4a7bbfd308c.png">
-1. Techniques to store data sets change as the size of data sets increase. Larger data sets by their nature require more storage space.
-  
+1. Techniques to store data sets change as the size of data sets increase. Larger data sets by their nature require more storage space.<br>
 2. Programming statements least affects because the efficiency of a program is independent of the number of statements it contains.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
