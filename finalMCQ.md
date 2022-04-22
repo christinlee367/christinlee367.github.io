@@ -13,7 +13,7 @@
   <ol>
     <li><a href="#finals-quiz1-corrections">Finals-Quiz1</a></li>
     <ul>
-        <li><a href="https://github.com/christinlee367/christinlee367.github.io/blob/main/finalMCQ.md#q1">Question #1</a></li>
+        <li><a href="#q1">Question #1</a></li>
         <li><a href="#q5">Question #5</a></li>
         <li><a href="#q14">Question #14</a></li>
         <li><a href="#q25">Question #25</a></li>
@@ -41,15 +41,18 @@
   </ol>
 </details> 
 
-
+<div id="finals-quiz1-corrections"></div>
 ## Finals Quiz1 Corrections
-# Q1
+  
+<div id="q1"></div>
+ Q1
 <img width="946" alt="Screen Shot 2022-04-20 at 8 40 38 AM" src="https://user-images.githubusercontent.com/85912471/164592614-59b0c54b-f360-4722-b146-c4a7bbfd308c.png">
 1. Techniques to store data sets change as the size of data sets increase. Larger data sets by their nature require more storage space.
 2. Programming statements least affects because the efficiency of a program is independent of the number of statements it contains.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <div id="q5"></div>
+  
 ### Q5 
 <img width="927" alt="Screen Shot 2022-04-20 at 8 42 06 AM" src="https://user-images.githubusercontent.com/85912471/164592931-1c5e72db-62e4-4cd5-8c6e-9a4fb60f7cde.png">
 
