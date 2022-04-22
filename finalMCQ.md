@@ -4,7 +4,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Link to Corrections</summary>
+  <summary>Link to Corrections(CLICK ME)</summary>
   <ol>
     <li><a href="#finals-quiz1-corrections">Finals-Quiz1</a></li>
     <li><a href="#acknowledgments">Finals-Quiz2</a></li>
