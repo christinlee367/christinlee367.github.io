@@ -7,9 +7,9 @@
 | 1 | Finals-Quiz1 | 34/50 | |
 | 2 | Finals-Quiz2 | 44/50 | |
 
-<!-- TABLE OF CONTENTSS -->
+<!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Link to Corrections(CLICK ME)</summary>
+  <summary>Link to Correctionss(CLICK ME)</summary>
   <ol>
     <li><a href="#finals-quiz1-corrections">Finals-Quiz1</a></li>
     <ul>
