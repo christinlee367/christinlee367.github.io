@@ -83,9 +83,8 @@ Q28
 <img width="943" alt="Screen Shot 2022-04-20 at 8 45 49 AM" src="https://user-images.githubusercontent.com/85912471/164760012-a3a28412-6045-420c-ae7d-320f5f087856.png">
 
 1. Data compression: reduction in the number of bits needed to represent data.<br>
-2. Advantages: Significant reduction of file size but at the cost of loss in the quality.
-  
-5. Disadvantages: Quality of compressed image degrades with high ratio of compression. User can not get back original image after compression.
+2. Advantages: Significant reduction of file size but at the cost of loss in the quality.<br>
+3. Disadvantages: Quality of compressed image degrades with high ratio of compression. User can not get back original image after compression.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <div id="q39"></div>  
