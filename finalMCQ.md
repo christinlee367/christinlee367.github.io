@@ -7,7 +7,7 @@
 | 1 | Finals-Quiz1 | 34/50 | |
 | 2 | Finals-Quiz2 | 44/50 | |
 
-<!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTSS -->
 <details>
   <summary>Link to Corrections(CLICK ME)</summary>
   <ol>
@@ -45,12 +45,12 @@
 ## Finals Quiz1 Corrections
 # Q1
 <img width="946" alt="Screen Shot 2022-04-20 at 8 40 38 AM" src="https://user-images.githubusercontent.com/85912471/164592614-59b0c54b-f360-4722-b146-c4a7bbfd308c.png">
-
 1. Techniques to store data sets change as the size of data sets increase. Larger data sets by their nature require more storage space.
 2. Programming statements least affects because the efficiency of a program is independent of the number of statements it contains.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Q5
+<div id="q5"></div>
+### Q5 
 <img width="927" alt="Screen Shot 2022-04-20 at 8 42 06 AM" src="https://user-images.githubusercontent.com/85912471/164592931-1c5e72db-62e4-4cd5-8c6e-9a4fb60f7cde.png">
 
 1.  cookies created during the anonymous browsing session were deleted, no information exists in the browser to inform future visits to the same website. Thus, any shopping cart items will not be available for future purchase.
