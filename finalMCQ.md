@@ -13,7 +13,7 @@
   <ol>
     <li><a href="#finals-quiz1-corrections">Finals-Quiz1</a></li>
     <ul>
-        <li><a href="https://github.com/christinlee367/christinlee367.github.io#q1">Question #1</a></li>
+        <li><a href="https://github.com/christinlee367/christinlee367.github.io/blob/main/finalMCQ.md#q1">Question #1</a></li>
         <li><a href="#q5">Question #5</a></li>
         <li><a href="#q14">Question #14</a></li>
         <li><a href="#q25">Question #25</a></li>
