@@ -51,6 +51,7 @@ Finals Quiz1 Corrections
  Q1
 <img width="946" alt="Screen Shot 2022-04-20 at 8 40 38 AM" src="https://user-images.githubusercontent.com/85912471/164592614-59b0c54b-f360-4722-b146-c4a7bbfd308c.png">
 1. Techniques to store data sets change as the size of data sets increase. Larger data sets by their nature require more storage space.
+  
 2. Programming statements least affects because the efficiency of a program is independent of the number of statements it contains.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -59,6 +60,7 @@ Q5
 <img width="927" alt="Screen Shot 2022-04-20 at 8 42 06 AM" src="https://user-images.githubusercontent.com/85912471/164592931-1c5e72db-62e4-4cd5-8c6e-9a4fb60f7cde.png">
 
 1.  cookies created during the anonymous browsing session were deleted, no information exists in the browser to inform future visits to the same website. Thus, any shopping cart items will not be available for future purchase.
+  
 2.  This means that items that were in the shopping cart, will not be there because the anonymous borwsing sessino is being used while using the shopping cart item utility on a particular online store.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -67,6 +69,7 @@ Q14
 <img width="922" alt="considering using 7-bit binary sequences" src="https://user-images.githubusercontent.com/85912471/164593094-0a72c0b5-e8b1-4a7e-ae61-e9793da0a1ff.png">
 
 1. Adding an extra binary digit allows for two times as many items to be identified
+  
 2. When adding another digit it allows 2 times and not 10 more (think as a binary number)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -75,6 +78,7 @@ Q25
 <img width="916" alt="Screen Shot 2022-04-22 at 9 54 03 AM" src="https://user-images.githubusercontent.com/85912471/164759755-35dec2ec-2a8b-43b3-81f3-035f6cd406ba.png">
 
 1. Creative Commons the author can stipulate what kind of modification is allowed by users.
+  
 2. Creative Commons license is designed to increase the amount of content available to the public for free.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -83,7 +87,9 @@ Q28
 <img width="943" alt="Screen Shot 2022-04-20 at 8 45 49 AM" src="https://user-images.githubusercontent.com/85912471/164760012-a3a28412-6045-420c-ae7d-320f5f087856.png">
 
 3. Data compression: reduction in the number of bits needed to represent data.
+  
 4. Advantages: Significant reduction of file size but at the cost of loss in the quality.
+  
 5. Disadvantages: Quality of compressed image degrades with high ratio of compression. User can not get back original image after compression.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -92,7 +98,9 @@ Q39
 <img width="949" alt="Screen Shot 2022-04-20 at 8 48 38 AM" src="https://user-images.githubusercontent.com/85912471/164756968-8d9336a6-aeff-4a3b-b90a-ae355e728e95.png">
 
 1. If you did process X on processor 1 at the same time as doing process Y and then Z on processor 2, processor 1 would be done in 60 seconds and processor 2 would be done in 80 sections (50+30).
+  
 2. The processor calculations and I did not know what it means for processors to run parallel
+  
 3. Parallel processing is a method in computing of running two or more processors (CPUs) to handle separate parts of an overall task
 <p align="right">(<a href="#top">back to top</a>)</p>
 
