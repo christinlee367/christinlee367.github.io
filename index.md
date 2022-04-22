@@ -6,6 +6,7 @@ You can use the [editor on GitHub](https://github.com/christinlee367/christinlee
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Study Plan and Reflection
+
 **BOLD** = priorities
 | Tasks | Evidence | Description |
 | --------------------- | -------------| ------------------|
