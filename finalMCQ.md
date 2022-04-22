@@ -32,12 +32,12 @@
       </ul>
     <li><a href="#finals-quiz2-corrections">Finals-Quiz2</a></li>
     <ul>
-        <li><a href="#q5">Question #5</a></li>
+        <li><a href="#2q5">Question #5</a></li>
         <li><a href="#q19">Question #19</a></li>
         <li><a href="#q24">Question #24</a></li>
         <li><a href="#q35">Question #35</a></li>
         <li><a href="#q40">Question #40</a></li>
-        <li><a href="#q41">Question #41</a></li>
+        <li><a href="#2q41">Question #41</a></li>
   </ol>
 </details> 
 
@@ -160,7 +160,7 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Finals-Quiz2 Corrections
-### Q5
+### 2Q5
 <img width="933" alt="Screen Shot 2022-04-22 at 9 56 53 AM" src="https://user-images.githubusercontent.com/85912471/164760165-c95910e4-594d-4b44-9330-d14fb326f715.png">
 
 1. simulation is run on a computer and is not likely to require input from individuals distributed around the world.
@@ -195,7 +195,7 @@
 2. Citizen science involves members of the general public participating in scientific research which allows the work to be completed in less time.
 <p align="right">(<a href="#top">back to top</a>)</p>
   
-### Q41
+### 2Q41
 <img width="643" alt="Screen Shot 2022-04-22 at 10 04 23 AM" src="https://user-images.githubusercontent.com/85912471/164761332-dca5d595-79b2-4b11-b17d-ece15f2bd0e7.png">
 
 1. One way to determine the method of payment that was used in the greatest number of transactions during the 7-day period is to sort the data by the method of payment as described. 
