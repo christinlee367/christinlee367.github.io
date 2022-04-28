@@ -251,4 +251,112 @@ Q40
 4. Correct: By searching the data to find all transactions that occurred on the given date, and then adding the number of items purchased in each of those transactions, the total number of items purchased on a given date can be determined.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<div id="finals-quiz3-corrections"></div>
+Finals Quiz3 Corrections
 
+<div id="q2"></div>
+Q2
+<img width="916" alt="Screen Shot 2022-04-28 at 10 01 52 AM" src="https://user-images.githubusercontent.com/85912471/165805787-3b2fe610-9221-45a3-8fc0-3af5fabbd9ae.png">
+
+1. An undecidable problem is one for which no algorithm can be constructed that is always capable of providing a correct yes-or-no answer.<br>
+2. there is no algorithmic solution that could solve all instances of the problem.
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<div id="q6"></div>
+Q6
+<img width="925" alt="Screen Shot 2022-04-28 at 10 03 58 AM" src="https://user-images.githubusercontent.com/85912471/165806109-409177d2-9aa0-4d68-85c1-9bc6b222a533.png">
+
+1. the wrong one starts at 0.<br>
+2. After 20 is displayed, the algorithm terminates.
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<div id="q7"></div>
+Q7
+<img width="928" alt="Screen Shot 2022-04-28 at 10 05 51 AM" src="https://user-images.githubusercontent.com/85912471/165806391-10378c27-28fc-48d1-b946-15256f4e31ec.png">
+
+1. The procedure initially sets result to 1 and j to 2. In the REPEAT UNTIL loop, result is first assigned the sum of result and j, or 1 + 2. The value of j is then increased to 3.<br>
+2. In each subsequent iteration of the loop, result is increased by each successive value of j (3, 4, 5, etc.) until j exceeds n. Therefore, the procedure returns the sum of the integers from 1 to n.
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<div id="q8"></div>
+Q8
+<img width="929" alt="Screen Shot 2022-04-28 at 10 09 00 AM" src="https://user-images.githubusercontent.com/85912471/165807112-cb726d39-4091-495a-820c-d69d46de35ca.png">
+
+1. a student could be selected twice so it is not that option.
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<div id="q17"></div>
+Q17
+<img width="927" alt="Screen Shot 2022-04-28 at 10 13 10 AM" src="https://user-images.githubusercontent.com/85912471/165808403-e8a2991a-6368-41be-82e3-d7e0c4a51866.png">
+
+1. The procedure returns the first number it encounters that is less than the first number in the list.
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<div id="3-q19"></div>
+Q19
+<img width="942" alt="Screen Shot 2022-04-28 at 10 14 04 AM" src="https://user-images.githubusercontent.com/85912471/165808707-1937c5e3-e915-4378-96d3-12ffea1ba385.png">
+
+1. the lowest assignment one can be found by calculating the difference between the sum of the scores before the lowest score was dropped and the sum of the scores after the lowest score was dropped.<br>
+2. the right one needs to know the individual assignment scores.
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<div id="q20"></div>
+Q20
+<img width="918" alt="Screen Shot 2022-04-28 at 10 16 30 AM" src="https://user-images.githubusercontent.com/85912471/165809480-b2278ac7-c16c-4196-8ad6-ea659a2c6ac8.png">
+
+1. failed to add the 1 in accordance to the 12 that goes before it.
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<div id="q30"></div>
+Q30
+<img width="912" alt="Screen Shot 2022-04-28 at 10 17 49 AM" src="https://user-images.githubusercontent.com/85912471/165809851-19d0feb4-4527-4648-9b2b-f825874685c7.png">
+
+1. The Internet is the global system of interconnected computer networks that uses protocols to connect devices worldwide.<br>
+2. The World Wide Web is an information system (of pages, programs, and files) that is accessible over the Internet.
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<div id="q32"></div>
+Q32
+<img width="915" alt="Screen Shot 2022-04-28 at 10 19 13 AM" src="https://user-images.githubusercontent.com/85912471/165810349-e3b73d72-8a93-4b99-95ce-1795195e9b92.png">
+
+1. think about the question in terms of 2^4 and find which values are able to be made by those 4 bits.
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<div id="q34"></div>
+Q34
+<img width="918" alt="Screen Shot 2022-04-28 at 10 20 35 AM" src="https://user-images.githubusercontent.com/85912471/165810771-f8c01737-02fa-4474-93c0-481b0673ba0a.png">
+
+1. misunderstood the question. Need to re-evaluate and interpret the question as a response that does not runtime fast and needs the heuristic approach to save it.
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<div id="3-q42"></div>
+Q42
+<img width="916" alt="Screen Shot 2022-04-28 at 10 22 42 AM" src="https://user-images.githubusercontent.com/85912471/165811408-dd4a9ab1-9188-4162-bdd1-32f54b886eed.png">
+
+1. 6 bits will only allow for up to 64 sequences because 26=64.<br>
+2. Using 7 bits will allow for up to 128 sequences because 27=128. Therefore, a minimum of 7 bits are needed.
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<div id="3-q46"></div>
+Q46
+<img width="916" alt="Screen Shot 2022-04-28 at 10 26 54 AM" src="https://user-images.githubusercontent.com/85912471/165812138-b271328b-b65e-4640-903a-b503ae418183.png">
+
+1. Symmetric encryption is a type of encryption where only one key (a secret key) is used to both encrypt and decrypt electronic information.<br>
+2. example of symmetric encryption because the secret key is used for both encryption and decryption of messages.
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<div id="3-q48"></div>
+Q48
+<img width="888" alt="Screen Shot 2022-04-28 at 10 27 19 AM" src="https://user-images.githubusercontent.com/85912471/165812239-196f9aa6-2126-428c-a9dd-7d7add652cd5.png">
+
+1. ran out of time.<br>
+2. o pair of characters appears in the string more than once.
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<div id="3-q50"></div>
+Q50
+<img width="561" alt="Screen Shot 2022-04-28 at 10 28 56 AM" src="https://user-images.githubusercontent.com/85912471/165812476-7c2ece59-4152-4fb9-b140-1c0ac79ff2cd.png">
+
+1. ran out of time.<br>
+2. The variable second, while initially assigned the value 200, is later assigned the value of temp, which is 100.
+<p align="right">(<a href="#top">back to top</a>)</p>
