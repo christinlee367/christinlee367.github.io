@@ -8,7 +8,7 @@
 |:--|:----------------------|:-----|
 | 1 | Finals-Quiz1 | 34/50 | 
 | 2 | Finals-Quiz2 | 44/50 |
-| 2 | Finals-Quiz2 | 36/50 |
+| 2 | Finals-Quiz3 | 36/50 |
 
 <!-- TABLE OF CONTENTS -->
 <details>
