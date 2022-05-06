@@ -8,7 +8,8 @@
 |:--|:----------------------|:-----|
 | 1 | Finals-Quiz1 | 34/50 | 
 | 2 | Finals-Quiz2 | 44/50 |
-| 2 | Finals-Quiz3 | 36/50 |
+| 3 | Finals-Quiz3 | 36/50 |
+| 4 | Finals-Quiz3 | 39/50 |
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -41,6 +42,23 @@
         <li><a href="#q35">Question #35</a></li>
         <li><a href="#q40">Question #40</a></li>
         <li><a href="#2-q41">Question #41</a></li>
+    </ul>
+    <li><a href="#finals-quiz3-corrections">Finals-Quiz3</a></li>
+    <ul>
+        <li><a href="#q2">Question #2</a></li>
+        <li><a href="#q6">Question #6</a></li>
+        <li><a href="#q7">Question #7</a></li>
+        <li><a href="#q8">Question #35</a></li>
+        <li><a href="#q17">Question #17</a></li>
+        <li><a href="#3-q19">Question #19</a></li>
+        <li><a href="#q20">Question #20</a></li>
+        <li><a href="#q30">Question #30</a></li>
+        <li><a href="#q32">Question #32</a></li>
+        <li><a href="#q34">Question #34</a></li>
+        <li><a href="#3-q42">Question #42</a></li>
+        <li><a href="#3-q46">Question #46</a></li>
+        <li><a href="#3-q48">Question #48</a></li>
+        <li><a href="#3-q50">Question #50</a></li>
     </ul>
     <li><a href="#finals-quiz3-corrections">Finals-Quiz3</a></li>
     <ul>
