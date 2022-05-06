@@ -60,22 +60,19 @@
         <li><a href="#3-q48">Question #48</a></li>
         <li><a href="#3-q50">Question #50</a></li>
     </ul>
-    <li><a href="#finals-quiz3-corrections">Finals-Quiz3</a></li>
+    <li><a href="#finals-quiz5-corrections">Finals-Quiz5</a></li>
     <ul>
-        <li><a href="#q2">Question #2</a></li>
-        <li><a href="#q6">Question #6</a></li>
-        <li><a href="#q7">Question #7</a></li>
-        <li><a href="#q8">Question #35</a></li>
-        <li><a href="#q17">Question #17</a></li>
-        <li><a href="#3-q19">Question #19</a></li>
-        <li><a href="#q20">Question #20</a></li>
-        <li><a href="#q30">Question #30</a></li>
-        <li><a href="#q32">Question #32</a></li>
-        <li><a href="#q34">Question #34</a></li>
-        <li><a href="#3-q42">Question #42</a></li>
-        <li><a href="#3-q46">Question #46</a></li>
-        <li><a href="#3-q48">Question #48</a></li>
-        <li><a href="#3-q50">Question #50</a></li>
+        <li><a href="#5-q6">Question #6</a></li>
+        <li><a href="#q13">Question #13</a></li>
+        <li><a href="#q16">Question #16</a></li>
+        <li><a href="#q21">Question #21</a></li>
+        <li><a href="#5-q24">Question #24</a></li>
+        <li><a href="#5-q25">Question #25</a></li>
+        <li><a href="#q26">Question #26</a></li>
+        <li><a href="#q27">Question #27</a></li>
+        <li><a href="#5-q28">Question #28</a></li>
+        <li><a href="#q33">Question #33</a></li>
+        <li><a href="#5-q34">Question #34</a></li>
     </ul>
   </ol>
     
@@ -377,4 +374,86 @@ Q50
 
 1. ran out of time.<br>
 2. The variable second, while initially assigned the value 200, is later assigned the value of temp, which is 100.
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<div id="5-q6"></div>
+Q6
+<img width="486" alt="Screen Shot 2022-05-06 at 11 37 43 AM" src="https://user-images.githubusercontent.com/85912471/167198300-999cfd68-e74d-4f80-ab09-2374d5f6989f.png">
+
+1. it only works when the maximum value is greater than or equal to one.
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<div id="q13"></div>
+Q13
+<img width="498" alt="Screen Shot 2022-05-06 at 11 48 16 AM" src="https://user-images.githubusercontent.com/85912471/167199722-e6776f49-5965-4fb2-99be-8f804f17ca15.png">
+
+1. that way, the average would only be calculated once. <\b>
+2. since 7 is only for interchanging numbers.
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<div id="q16"></div>
+Q16
+<img width="487" alt="Screen Shot 2022-05-06 at 11 51 25 AM" src="https://user-images.githubusercontent.com/85912471/167200114-3653d6a9-8350-425d-ae35-7f390c3e48f4.png">
+
+1. did not realize that the person is actually switched
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<div id="q21"></div>
+Q20
+<img width="411" alt="Screen Shot 2022-05-06 at 11 54 53 AM" src="https://user-images.githubusercontent.com/85912471/167200557-39a42da0-f9de-4969-9b39-ddf76dd4219c.png">
+
+1. The REPEAT UNTIL statement subtracts 2 from the parameter number until the condition number ≤ 0 is true. After this REPEAT loop ends, the value of number is either 0 (if the original number was even) or –1 (if the original number was odd).
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<div id="5-q24"></div>
+Q24
+<img width="951" alt="Screen Shot 2022-05-06 at 11 57 48 AM" src="https://user-images.githubusercontent.com/85912471/167200974-2512d4fc-fe2d-46c4-bb1b-23f3c4d88ceb.png">
+
+1. pay attention to more of the code segaments.
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<div id="5-q25"></div>
+Q25
+<img width="894" alt="Screen Shot 2022-05-06 at 11 59 44 AM" src="https://user-images.githubusercontent.com/85912471/167201228-b59bb6df-011d-464f-924c-2d60a8942271.png">
+
+1. f timer is greater than 60, bonus is assigned 1500 in the first IF block. If timer is between 30 and 60, inclusive, bonus is assigned 1000 in the second IF block. If timer is less than 30, bonus is assigned 500 in the third IF block. The correct number of bonus points is assigned to bonus for all possible values of timer.
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<div id="q26"></div>
+Q26
+<img width="930" alt="Screen Shot 2022-05-06 at 12 00 54 PM" src="https://user-images.githubusercontent.com/85912471/167201369-e61030d6-adaf-4543-b631-bfb599deae19.png">
+
+1. The last line in this code segment sets maxPS to 50 regardless of the value of time<\b>
+2. This code segment uses the IF statement to set maxPS to 30 when time > 120 and uses the ELSE statement to set maxPS to 50 otherwise.
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<div id="q27"></div>
+Q27
+<img width="917" alt="Screen Shot 2022-05-06 at 12 02 33 PM" src="https://user-images.githubusercontent.com/85912471/167201563-cb91f11b-87ca-4b18-a2a6-28ca77c29785.png">
+
+1. A simulation that shows how packets move between clients and servers can show the effects of temporarily unavailable network connections.
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<div id="5-q28"></div>
+Q28
+<img width="939" alt="Screen Shot 2022-05-06 at 12 03 57 PM" src="https://user-images.githubusercontent.com/85912471/167201722-cecb23b3-1cad-4eac-b221-75fecacf4f7d.png">
+
+1.  If the song was saved using a lossless compression technique, there should be no change in sound quality.<\b>
+2.   correct. The representation of sound as data involves the computational manipulation of information. For one copy of a song to have a lower sound quality than another copy, a lower ratio of bits per second must have been used.
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<div id="q33"></div>
+Q33
+<img width="927" alt="Screen Shot 2022-05-06 at 12 04 59 PM" src="https://user-images.githubusercontent.com/85912471/167201861-d9831a0d-84f1-4a17-8282-da8843425704.png">
+
+1. incorrect. The user’s browser makes a request for the file, and the file is broken into packets by the server for transmission. The user’s browser does not request each packet in order.<\b>
+2. correct. Digital data on the Internet is sent by breaking data into blocks of bits called packets. The packets are reassembled by the user’s computer.
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<div id="5-q34"></div>
+Q34
+<img width="921" alt="Screen Shot 2022-05-06 at 12 06 41 PM" src="https://user-images.githubusercontent.com/85912471/167202089-9ed9109f-258b-4573-989c-089d2f03d8eb.png">
+
+1. The Internet was not designed to be completely secure. Encryption is not required for communications.<\b>
+2. The Internet was designed to be scalable, using open protocols to easily connect additional computing devices to the network.
 <p align="right">(<a href="#top">back to top</a>)</p>
